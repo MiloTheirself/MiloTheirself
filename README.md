@@ -1,6 +1,6 @@
 ### hoi there 👋
 
-I'm here to assist with some private projects, and make use of great markdown and project management features from GitHubs.
+I'm here to assist with some private projects, and make use of GitHub's great markdown and project management features.
 
 <!--
 **MiloTheirself/MiloTheirself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
